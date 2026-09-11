@@ -2,7 +2,6 @@
 
 ******
 
-![Avatar](C:\Users\user\Desktop\Документы)
 
 ## Junior Developer
 
