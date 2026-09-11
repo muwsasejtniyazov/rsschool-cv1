@@ -2,7 +2,7 @@
 
 ******
 
-![Avatar](C:\Users\user\Desktop\Документы)
+![Avatar](Ava.jpg)
 
 ## Junior Developer
 
