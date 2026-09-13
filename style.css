@@ -1,1 +1,164 @@
 
+.left {
+    position: absolute;
+    width: 185px;
+    height: 760px;
+    left: 0.33px;
+    top: 0.52px;
+    margin: 0px 0px 0px 500px;
+    display: flex;
+    flex-direction: column;
+    background: darkgrey;  
+    transform: rotate(-0.18deg)
+}
+.lin {
+    display: flex;
+    text-decoration: none;
+    font-family: -'gothamm', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    margin-bottom: 12px;
+    color: black;
+    list-style-type: disc;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    font-family: -'gothamm', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+    margin-bottom: 8px;
+    
+}
+.icon {
+    height: auto;
+    width: 14px;
+}
+.ul {
+    display: flex;
+    flex-direction: column;
+    text-decoration: black;
+    margin-left: -11px;
+    color: black;
+    font-family: 'gothamm', sans-serif;
+    font-style: normal;
+    margin-bottom: -10px;
+}
+h2 {
+    font-family: 'gothamm', sans-serif;
+    font-size: 24px;
+    color: black;
+    margin-top: 18.12px;
+    margin-left: 13.6px;
+}
+span {
+    font-family: 'gothamm', sans-serif;
+    font-size: 10px;
+    color: black;
+    margin-left: 13.6px;
+}
+.right {
+    position: absolute;
+    width: 410px;
+    height: 760px;
+    left: 0.33px;
+    top: 0.52px;
+    margin: 0px 0px 0px 684px;
+    background-color: #E5E5E5;
+}
+h1 {
+    font-family: 'barlow condensed', sans-serif;
+    font-style: normal;
+    font-size: 36px;
+    color: black;
+    margin-top: 18.12px;
+    margin-left: 13.6px;
+}
+.p {
+    font-family: 'gothamm', sans-serif;
+    font-size: 10px;
+    color: black;
+    margin-left: 13.6px;
+    margin-bottom: 13px;
+}
+h4 {
+    font-family: 'gothamm', sans-serif;
+    font-size: 14px;
+    color: black;
+    margin-top: 18.12px;
+    margin-left: 13.6px;
+}
+.p1 {
+    color: #828282;
+    font-size: 12px;
+    margin-top: 1.60px;
+    text-align: left;
+}
+.div3 {
+    margin-top: 14px;
+    margin-left: 10px;
+}
+.p2 {
+    color: #828282;
+    font-size: 12px;
+    text-align: left;
+    margin-bottom: auto;
+}
+.div3 {
+    margin-top: -92px;
+    margin-left: 230px;
+}
+.al {
+    font-family: 'gothamm', sans-serif; 
+}
+.span1 {
+    font-family: 'gothamm', sans-serif;
+    font-size: 12px;
+    color: black;
+    margin-left: 1px;    
+}
+.h3 {
+    font-family: 'gothamm', sans-serif;
+    font-size: 14px;
+    color: black;
+    margin-left: 14px;
+}
+.div4 {
+    display: flex;
+    margin-top: 4px;
+    margin-left: 29.6px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    gap: 40px;
+}
+.a1 {
+    text-decoration: none;
+    color: black;
+}
+.a1:hover {
+    color: gray;
+}
+.a2 {
+    text-decoration: none;
+    color: black;
+}
+.a2:hover {
+    color: darkgray;
+}
+.div6 {
+    position: absolute;
+    bottom: 10px;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.rs {
+    height: 140px;
+    width: 100%;
+    margin-top: 50px;
+}
+.git {
+    height: 120px;
+    width: 120px;
+    margin-top: 60px;
+}
